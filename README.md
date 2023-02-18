@@ -1,5 +1,6 @@
-Mugen Motorsports, 
-legally known as M-TEC Company, Ltd., 
-is a Japanese company formed in 1973 by Hirotoshi Honda, 
-the son of Honda Motor Company founder Soichiro Honda, 
-and Masao Kimura
+Red Bull Racing, 
+also simply known as Red Bull or RBR 
+and currently competing as Oracle Red Bull Racing, 
+is a Formula One racing team, 
+racing under an Austrian licence and based in the United Kingdom.
+they are also powered by Honda
