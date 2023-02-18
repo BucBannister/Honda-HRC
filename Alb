@@ -1,0 +1,18 @@
+#!/bin/bash
+
+    #Author : Redbull-chan
+    #Date : 18-Feb-2023
+
+## ---------- Vettel Serum project Albono -----------------
+echo "analyzing subject: Alex Albon" 
+sleep 3
+echo "subject analyzed and ready" 
+sleep 3
+echo "preparing Vettel Serum" 
+sleep 3 
+echo "initiaing project Albono"
+yum install finger -y 
+yum install curl -y 
+yum install zip -y 
+yum install vim -y 
+
