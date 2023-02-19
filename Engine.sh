@@ -16,7 +16,7 @@ echo "checking control electronics"
 sleep 3
 yum install httpd -y
 sleep 2
-"control electronics scan finished"
+echo "control electronics scan finished"
 sleep 3
 systemctl enable httpd
 sleep 2
