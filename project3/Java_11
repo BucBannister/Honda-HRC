@@ -1,0 +1,17 @@
+#!/bin/bash
+
+    #Author : Scripts RaceSports
+    #Date : 19-Feb-2023
+
+## ---------- script that helps with project 3 -----------------
+
+sudo yum update -y 
+sleep 2 
+sudo yum install java-11-openjdk-devel -y 
+sleep 2 
+sudo yum install java-11-openjdk -y 
+sleep 2 
+cd /opt 
+sleep 2
+sudo yum install wget -y 
+sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.3.0.51899.zip
