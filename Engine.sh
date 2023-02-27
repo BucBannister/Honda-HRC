@@ -4,7 +4,7 @@
     #Date : 18-Feb-2023
 
 ## ---------- script that helps with engine maintenance -----------------
-echo "starting Turbbo maintenace"
+echo "starting Turbo maintenace"
 sleep 3
 yum install net-tools -y
 sleep 2
