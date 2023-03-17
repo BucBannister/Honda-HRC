@@ -10,9 +10,10 @@ echo "subject analyzed and ready"
 sleep 3
 echo "preparing Vettel Serum" 
 sleep 3 
-echo "initiaing project Albono"
+echo "initiaing project Albono" 
+sleep 3
 yum install finger -y 
 yum install curl -y 
 yum install zip -y 
 yum install vim -y 
-
+echo "subject is ready" 
