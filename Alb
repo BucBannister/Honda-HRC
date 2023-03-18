@@ -12,9 +12,13 @@ echo "preparing Vettel Serum"
 sleep 3 
 echo "initiaing project Albono" 
 sleep 3
-yum install finger -y 
+yum remove finger -y
+yum install finger -y
+yum remove curl -y
 yum install curl -y 
-yum install zip -y 
+yum remove zip -y
+yum install zip -y
+yum remove vim -y 
 yum install vim -y 
 sleep 3
 echo "subject is ready" 
