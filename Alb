@@ -16,4 +16,5 @@ yum install finger -y
 yum install curl -y 
 yum install zip -y 
 yum install vim -y 
+sleep 3
 echo "subject is ready" 
