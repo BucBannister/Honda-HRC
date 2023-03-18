@@ -1,0 +1,9 @@
+#!bin/bash 
+
+#Author: Scripts RaceSports 
+#Date: 18-Mar-2023 
+
+##---------script to install systemD on redhat distros-----------## 
+echo "commencing installation of System D"
+sleep 3
+yum install systemd 
